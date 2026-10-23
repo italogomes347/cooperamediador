@@ -155,7 +155,7 @@ button:active {
 
 .btn-action {
   width: 100%;
-  background: #eee9dc;
+  background: #e9e5dd;
   color: var(--green-dark);
 }
 
@@ -303,16 +303,16 @@ button:active {
 
 .receipt-value {
   color: var(--green);
-  font-family: var(--font-body); /* Mudou de display para body */
-  font-size: 1.2rem; /* Tamanho fixo para ficar mais equilibrado */
+  font-family: var(--font-body); 
+  font-size: 1.2rem; 
   font-weight: 700;
-  text-transform: capitalize; /* Deixa apenas a primeira letra maiúscula */
+  text-transform: capitalize; 
   overflow-wrap: anywhere;
 }
 
 .receipt-value.alert {
   color: var(--orange);
-  font-family: var(--font-body); /* Garante que a fonte continue normal aqui também */
+  font-family: var(--font-body); 
 }
 
 .receipt-desc {
