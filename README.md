@@ -9,3 +9,7 @@
 * MC-49-04KA
 
 * MC-49-04GA
+
+## tutorial
+ npm instal
+ npm run
