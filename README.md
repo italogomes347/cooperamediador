@@ -10,6 +10,29 @@
 
 * MC-49-04GA
 
-## tutorial
-* npm instal
-* npm run
+# Medidor Coopera
+
+Simulador web de consumo de energia e dimensionamento solar desenvolvido para a **Cooperativa Coopera Luz**
+
+O projeto consiste em uma interface web onde o morador cadastra os aparelhos da casa, e um servidor em Node.js realiza todos os cálculos de consumo, valor da conta (com bandeira tarifária) e quantidade de painéis solares necessários.
+
+##  Tecnologias Utilizadas
+
+- **Front-end:** HTML5, CSS3, JavaScript (Vanilla), DOM e Fetch API.
+- **Back-end:** Node.js, Express.
+
+## Tutorial: Como executar o projeto
+
+### Pré-requisitos
+Você precisará ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
+
+### Passo a passo
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/italogomes347/cooperamediador.git
+   cd cooperamediador
+
+   * npm install
+
+   * npm run dev
