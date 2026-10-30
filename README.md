@@ -35,4 +35,4 @@ Você precisará ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 
    * npm install
 
-   * npm run dev
+   * node server.js
