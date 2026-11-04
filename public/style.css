@@ -342,16 +342,6 @@ td {
   color: #536159;
 }
 
-.terminal-footer {
-  margin-top: 44px;
-  padding-top: 17px;
-  border-top: 1px solid var(--line);
-  color: #7d887f;
-  font-size: 0.74rem;
-  letter-spacing: 0.035em;
-  text-align: center;
-}
-
 @media (max-width: 760px) {
   body {
     padding: 24px 14px;
