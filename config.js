@@ -11,4 +11,3 @@ module.exports = {
     vermelha2: 7.877 
   },
 };
-// numero 49 escolhido para representar a bandeira amarela, que é a bandeira atual.
